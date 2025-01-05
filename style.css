@@ -406,3 +406,75 @@ nav .fas {
     margin-top: -40px;
     display: block;
 }
+
+
+
+
+
+
+
+#contact {
+    color: white;
+    text-align: center;
+    padding: 50px 20px;
+    background: url('your-background-image.png') no-repeat center center/cover; /* Add your background image */
+}
+
+.contact-left h1 {
+    font-size: 3em;
+    margin-bottom: 20px;
+}
+
+.contact-left p {
+    font-size: 1.2em;
+    margin: 10px 0;
+}
+
+.social-icons img {
+    margin: 0 10px;
+    vertical-align: middle;
+}
+
+.btn {
+    display: inline-block;
+    padding: 10px 20px;
+    color: #333;
+    background-color: #f1f1f1;
+    border: none;
+    border-radius: 5px;
+    text-decoration: none;
+    font-size: 1em;
+    margin-top: 20px;
+    cursor: pointer;
+}
+
+.btn:hover {
+    background-color: #ddd;
+}
+
+.contact-right {
+    margin-top: 30px;
+}
+
+.contact-right input, 
+.contact-right textarea {
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.contact-right button {
+    background-color: #007BFF;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    border-radius: 5px;
+    font-size: 1em;
+}
+
+.contact-right button:hover {
+    background-color: #0056b3;
+}
